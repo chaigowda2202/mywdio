@@ -1,0 +1,51 @@
+{
+    "login": {
+      "USERNAME": "sonu",
+      "PASSWORD": "sonali@123"
+    },
+    "registration": {
+      "firstName": "sonu",
+      "lastName": "sonali",
+      "street": "123 Main road",
+      "city": "bangalore",
+      "state": "karnataka",
+      "zipCode": "560067",
+      "phoneNumber": "7867898765",
+      "ssn": "123-45-6789",
+      "username": "sonu",
+      "password": "sonali@123",
+      "confirmpassword":"sonali@123"
+
+    },
+
+    "openAccount": {
+      "accountType": "Checking",
+      "fromAccountId": "17229"
+    },
+
+    "transfer": {
+      "amount": "500",
+      "fromAccountId": "55555",
+      "toAccountId": "99999"
+    },
+
+    "billPay": 
+    {
+    "payeeName": "John Doe",
+    "payeeAddress": "123 Elm Street",
+    "payeeCity" : "bangalore",
+    "payeeState" : "karnataka",
+    "zipcode" : "345678",
+    "payeePhoneNumber": "1234567890",
+    "account": "12345",
+    "verifyAccount": "12345",
+    "amount": "100"
+  },
+
+    "loan": {
+      "amount": "1000",
+      "downPayment": "100",
+      "fromAccountId": "12345"
+    }
+  }
+  

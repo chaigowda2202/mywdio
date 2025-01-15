@@ -1,0 +1,36 @@
+<!-- 
+Logging Configuration: logLevel
+javascript
+Copy code
+logLevel: 'info',
+Purpose:
+The logLevel setting controls the verbosity of WebdriverIO's logs. These logs provide details about the actions being performed during the execution of tests. The log level determines how much information is displayed in the console or log files.
+
+Available Levels:
+trace:
+
+Logs every detail about WebdriverIO commands and operations.
+Includes even the smallest debugging information.
+Use Case: Debugging very detailed issues or inspecting the entire flow.
+debug:
+
+Provides detailed logs for debugging, but less verbose than trace.
+Includes command execution details and responses.
+Use Case: Useful when troubleshooting unexpected behaviors in test execution.
+info:
+
+Logs general information about the test execution.
+Includes successful commands and significant events.
+Use Case: Default level for normal test execution to track key activities.
+warn:
+
+Logs warnings, such as deprecated features or potential issues.
+Use Case: When you want to focus only on potential problems.
+error:
+
+Logs only errors that occur during test execution.
+Use Case: To focus on critical issues during tests.
+silent:
+
+Suppresses all logs.
+Use Case: When running tests in environments where logs are not needed or would clutter the output. -->

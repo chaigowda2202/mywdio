@@ -1,0 +1,23 @@
+[
+    {
+        "url" : "https://practicetestautomation.com/practice-test-login/",
+        "userName" : "student",
+        "password" : "Password123"
+    },
+    {
+        "url" : "https://practicetestautomation.com/practice-test-login/",
+        "userName" : "STUDENT",
+        "password" : "12345"
+    },
+    {
+        "url" : "https://practicetestautomation.com/practice-test-login/",
+        "userName" : "@STUDENT23",
+        "password" : "PWD"
+    },
+    {
+        "url" : "https://practicetestautomation.com/practice-test-login/",
+        "userName" : "STU_#DENT",
+        "password" : "PASS123"
+    }
+]
+
