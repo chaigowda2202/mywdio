@@ -1,5 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","21118","","","Fri Jan 10 17:33:19 IST 2025","passed","Fri Jan 10 17:33:40 IST 2025","","","",""
-"","4324","login","","Fri Jan 10 15:44:14 IST 2025","broken","Fri Jan 10 15:44:19 IST 2025","","swager_labs","",""
-"","4014","testlogin","","Fri Jan 10 16:29:51 IST 2025","passed","Fri Jan 10 16:29:55 IST 2025","","hhhhh","",""
-"","6021","should accept an alert","","Fri Jan 10 16:29:28 IST 2025","passed","Fri Jan 10 16:29:34 IST 2025","","Handle JavaScript Alerts","",""
